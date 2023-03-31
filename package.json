@@ -1,0 +1,28 @@
+{
+  "name": "dirty-json-cli",
+  "version": "1.0.0",
+  "description": "format dirty json via command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dirty",
+    "json",
+    "formatter",
+    "process",
+    "dirty",
+    "json"
+  ],
+  "author": {
+    "name": "Santiago Rodriguez Penagos",
+    "email": "rodriguez.santiago@correounivalle.edu.co"
+  },
+  "license": "AGPL-3.0",
+  "bin": {
+    "dirty-json": "./index.js"
+  },
+  "dependencies": {
+    "dirty-json": "^0.9.2"
+  }
+}
